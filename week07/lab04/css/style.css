@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 figcaption{
     font-family: Verdana, Geneva, sans-serif;
     font-weight: bold;
@@ -12,4 +13,20 @@ figure{
     background-color: navy;
     width: 600px;
     padding: 20px;
+=======
+figcaption{
+    font-family: Verdana, Geneva, sans-serif;
+    font-weight: bold;
+    color: white;
+}
+figcaption span{
+    font-size: 80%;
+    font-style: italic;
+    color: lightgrey;
+}
+figure{
+    background-color: navy;
+    width: 600px;
+    padding: 20px;
+>>>>>>> 2dab708db16b1736932019829fe7bc5268c2452a
 }
